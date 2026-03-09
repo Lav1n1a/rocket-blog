@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://lav1n1a.github.io/rocket-blog/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
